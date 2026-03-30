@@ -1,8 +1,8 @@
 ## Hi there I'm Andres Bolivar 👋 Data Engineer in training from Colombia co
 
 ### Fun Facts:
-- I love practicing callisthenics and I'm a serious handgrip strength enthusiast.
 - I love sunflowers
+- I love practicing callisthenics and I'm a serious handgrip strength enthusiast.
 - I have four cats
 
 ## 🛠️ My Toolbox
