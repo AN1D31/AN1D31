@@ -1,4 +1,4 @@
-## Hi there I'm Andres Bolivar 👋 Data Engineer in training from Colombia
+## Hi there I'm Andres Bolivar 👋 Software Engineer in training from Colombia
 
 ### ✨Fun Facts:
 - I love sunflowers
