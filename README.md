@@ -1,7 +1,7 @@
 ## Hi there I'm Andres Bolivar 👋 Software Engineer in training from Colombia
 
 ### 🛠️My Toolbox
-- **Languages:** Python (Pandas, Numpy), SQL (PostgreSQL), Java.
+- **Languages:** Python, SQL, Java.
 - **Databases:** PostgreSQL, SQL Server, Supabase.
 - **Cloud:** Azure.
 - **Front-end:** JavaScript, Tailwind.
